@@ -4,7 +4,7 @@ I'am working on a program simulates old pc operating system. I'm coding this pro
 # Finished things, codes etc.
 [!] Dual monitor support.  [ DONE ]
 
-[--] System Start Specs \
+[--] System Start Specs 
                                         \
        [!] Get Os Version. [ DONE ]
        [!] Get Machine Name. [ DONE ]
