@@ -63,4 +63,4 @@ name at your current location. Ex : crdir MyDirectory\
                      
 
 These commands all done.
-I'm working on the remaining 70 percent.
+I'm working on the remaining 80 percent.
