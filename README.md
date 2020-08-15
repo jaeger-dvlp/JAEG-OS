@@ -1,10 +1,10 @@
-# JAEG-OS
+#1 JAEG-OS
 I'am working on a program simulates old pc operating system. I'm coding this program with c# in form. I'll share screenshots from program soon. Its hasn't done yet. But it will.
 
-# Finished things, codes etc.
-[!] Dual monitor support.  [ DONE ]
+#2 Finished things, codes etc.
+ Dual monitor support.  [ DONE ]
 
-[--] System Start Specs 
+ System Start Specs 
                                         \
        [!] Get Os Version. [ DONE ]
        [!] Get Machine Name. [ DONE ]
