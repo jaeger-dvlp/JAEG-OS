@@ -1,40 +1,40 @@
-#1 JAEG-OS
-I'am working on a program simulates old pc operating system. I'm coding this program with c# in form. I'll share screenshots from program soon. Its hasn't done yet. But it will.
+# JAEG-OS
+### I'am working on a program simulates old pc operating system. I'm coding this program with c# in form. I'll share screenshots from program soon. Its hasn't done yet. But it will.
+---
 
-#2 Finished things, codes etc.
- Dual monitor support.  [ DONE ]
+## Finished things, codes etc.
+ 
++ Dual monitor support.  **[ DONE ]**
+  
+     > ## System Start Specs                                     
+     >> - Get Os Version. **[ DONE ]**
+     >> - Get Machine Name. **[ DONE ]**
+     >> - Get Tick Rate. **[ DONE ]**
+     >> - Get Proccesor Count. **[ DONE ]**
+     >> - Get Pc Username. **[ DONE ]** 
+     > ---  
+---
 
- System Start Specs 
-                                        \
-       [!] Get Os Version. [ DONE ]
-       [!] Get Machine Name. [ DONE ]
-       [!] Get Tick Rate. [ DONE ]
-       [!] Get Proccesor Count. [ DONE ]
-       [!] Get Pc Username. [ DONE ]
-                                        /
-[--] System Start Specs /
+## JCS SPEC PROTOCOL SYSTEM CONTROL 
+                                                                          
+#### [ JCS SP ] : Gets All System Specs. **[ DONE ]**
+###### "Get hardware info, bios , processor etc..."
+---                                                                   
+## JCS SPEC PROTOCOL SYSTEM CONTROL
+#### JCS SP Meaning;
+##### Jaeg Computer Software Specs Protocol.
 
-[--] JCS SPEC PROTOCOL SYSTEM CONTROL \
-                                                                          \
-       [ JCS SP ] : Gets All System Specs. [ DONE ]
-       " Get hardware info, bios , processor etc..."
-                                                                          /
-[--] JCS SPEC PROTOCOL SYSTEM CONTROL /
-
-JCS SP Meaning ;
-Jaeg Computer Software Specs Protocol.
 This protocol gets any hardware info, bios maker, bios id, proccessor, proccessor id etc. and when program has started, controls these things..
-------
+
+---
 
 # Things To Do , Unfinished Things etc.
 
-[!] Terminal \
-                     \
-     This terminal is like cmd, PowerShell, or 
-     Linux terminal, its works like them. But 
-     Terminal is doing this with my created codes 
-     of terminal.
-     Terminal's 20 percent is done.
+> Terminal
+>> + This terminal is like cmd, PowerShell, or Linux terminal,, its works like them. But 
+>> But my terminal is doing this with mine created codes . Terminal's 20 percent is done.
+>
+
 
 [!] COMMANDS OF TERMINAL
 |
