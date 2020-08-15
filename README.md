@@ -12,7 +12,7 @@
      >> - Get Tick Rate. **[ DONE ]**
      >> - Get Proccesor Count. **[ DONE ]**
      >> - Get Pc Username. **[ DONE ]** 
-     > ---  
+     >   
 ---
 
 ## JCS SPEC PROTOCOL SYSTEM CONTROL 
@@ -33,34 +33,20 @@ This protocol gets any hardware info, bios maker, bios id, proccessor, proccesso
 > Terminal
 >> + This terminal is like cmd, PowerShell, or Linux terminal,, its works like them. But 
 >> But my terminal is doing this with mine created codes . Terminal's 20 percent is done.
->
+>> ## COMMANDS OF TERMINAL
+>>> * [ help-x ] : Shows all commands and help.
+>>> * [ whoami ] : Shows pc name.
+>>> * [ whereami ] : Shows your current directory location.
+>>> * [ ip -v4 ] : Shows your Local IpV4 address.
+>>> * [ ip -v6 ] : Shows your Local IpV6 address.
+>>> * [ crdir dirname ] : Creates a directory as given name at your current location. Ex : crdir MyDirectory\
+>>> * [ list -x ] : Lists all files in your location.
+>>> * [ goto path ] : Goes to location of your given path. Ex : goto C:\\MyFiles\\JaegOs\
+>>> * [ shutdown -x] : Shutdown Jaeg OS.  
+>> ---
+> --- 
+**These commands all done.
+I'm working on the remaining 80 percent.**
+---
 
-
-[!] COMMANDS OF TERMINAL
-|
-[ help-x ] : Shows all commands and help.
-|
-[ whoami ] : Shows pc name.
-|
-[ whereami ] : Shows your current directory 
-location.
-|
-[ ip -v4 ] : Shows your Local IpV4 address.
-|
-[ ip -v6 ] : Shows your Local IpV6 address.
-|
-[ crdir dirname ] : Creates a directory as given 
-name at your current location. Ex : crdir MyDirectory\
-|
-[ list -x ] : Lists all files in your location.
-|
-[ goto path ] : Goes to location of your given path. Ex : goto C:\\MyFiles\\JaegOs\
-|
-[ shutdown -x] : Shutdown Jaeg OS.  
-[!] COMMANDS OF TERMINAL
-                     /
-[!] Terminal /
                      
-
-These commands all done.
-I'm working on the remaining 80 percent.
