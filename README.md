@@ -34,7 +34,7 @@ This protocol gets any hardware info, bios maker, bios id, proccessor, proccesso
 >> + This terminal is like cmd, PowerShell, or Linux terminal,, its works like them. But 
 >> But my terminal is doing this with mine created codes . Terminal's 20 percent is done.
 >> ## COMMANDS OF TERMINAL
->>> * [ help-x ] : Shows all commands and help.
+>>> * [ help -x ] : Shows all commands and help.
 >>> * [ whoami ] : Shows pc name.
 >>> * [ whereami ] : Shows your current directory location.
 >>> * [ ip -v4 ] : Shows your Local IpV4 address.
@@ -42,7 +42,7 @@ This protocol gets any hardware info, bios maker, bios id, proccessor, proccesso
 >>> * [ crdir dirname ] : Creates a directory as given name at your current location. Ex : crdir MyDirectory\
 >>> * [ list -x ] : Lists all files in your location.
 >>> * [ goto path ] : Goes to location of your given path. Ex : goto C:\\MyFiles\\JaegOs\
->>> * [ shutdown -x] : Shutdown Jaeg OS.  
+>>> * [ shutdown -x ] : Shutdown Jaeg OS.  
 >> ---
 > --- 
 **These commands all done.
