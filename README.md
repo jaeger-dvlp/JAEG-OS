@@ -31,7 +31,7 @@ This protocol gets any hardware info, bios maker, bios id, proccessor, proccesso
 # Things To Do , Unfinished Things etc.
 
 > Terminal
->> + This terminal is like cmd, PowerShell, or Linux terminal,, its works like them. But 
+>> + This terminal is like cmd, PowerShell, or Linux terminal, its works like them.
 >> But my terminal is doing this with mine created codes . Terminal's 20 percent is done.
 >> ## COMMANDS OF TERMINAL
 >>> * [ help -x ] : Shows all commands and help.
