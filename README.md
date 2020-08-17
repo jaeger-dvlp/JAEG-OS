@@ -40,6 +40,7 @@ This protocol gets any hardware info, bios maker, bios id, proccessor, proccesso
 >>> * [ ip -v4 ] : Shows your Local IpV4 address.
 >>> * [ ip -v6 ] : Shows your Local IpV6 address.
 >>> * [ crdir dirname ] : Creates a directory as given name at your current location. Ex : crdir MyDirectory\
+>>> * [ rmdir dirname ] : Deletes a directory as given name at your current location. Ex : rmdir MyDirectory\
 >>> * [ list -x ] : Lists all files in your location.
 >>> * [ goto path ] : Goes to location of your given path. Ex : goto C:\\MyFiles\\JaegOs\
 >>> * [ shutdown -x ] : Shutdown Jaeg OS.  
