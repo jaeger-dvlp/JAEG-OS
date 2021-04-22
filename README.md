@@ -1,5 +1,5 @@
 # JAEG-OS
-### I'am working on a program simulates old pc operating system. I'm coding this program with c# in form. I'll share screenshots from program soon. Its hasn't done yet. But it will.
+### I'am working on a program simulates old pc operating system. I'm coding this program with c# in form. I'll share screenshots from program soon. Its all done!
 ---
 
 ## Finished things, codes etc.
@@ -28,7 +28,7 @@ This protocol gets any hardware info, bios maker, bios id, proccessor, proccesso
 
 ---
 
-# Things To Do , Unfinished Things etc.
+# Things To Do , Unfinished Things etc.**[ ALL DONE ! ]**
 
 > Terminal
 >> + This terminal is like cmd, PowerShell, or Linux terminal, its works like them.
@@ -46,8 +46,8 @@ This protocol gets any hardware info, bios maker, bios id, proccessor, proccesso
 >>> * [ shutdown -x ] : Shutdown Jaeg OS.  
 >> ---
 > --- 
-**These commands all done.
-I'm working on the remaining 80 percent.**
+**These commands all done. **[ ALL DONE ! ]**
+**[ ALL DONE ! ]**
 ---
 
                      
