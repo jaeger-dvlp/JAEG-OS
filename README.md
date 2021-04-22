@@ -34,24 +34,24 @@ This protocol gets any hardware info, bios maker, bios id, proccessor, proccesso
 >> + This terminal is like cmd, PowerShell, or Linux terminal, its works like them.
 >> But my terminal is doing this with mine created codes . Terminal's 20 percent is done.
 >> ## COMMANDS OF TERMINAL
->>>*[ COMMANDS ] 
->>>*[ help -x ]        : Shows all commands and help.\n 
->>>*[ goto path ]      : Goes to location of your given path. Ex : goto C:\\MyFiles\\JaegOs  
->>>*[ read -x ]        : This command shows the contents of the stated readable file.  
->>>*[ read -n ]        : This command shows the contents of the stated readable file with line numbers.  
->>>*[ crdir dirname ]  : Creates a directory as given name at your current location. Ex : crdir MyDirectory  
->>>*[ rmdir dirname ]  : Deletes a directory as given name at your current location or at given location. Ex : rmdir MyDirectory   or   Ex : rmdir c:\\MyDirectory  
->>>*[ crfile -x ]      : Creates a text or any file at your given location and with your given file name. Ex: crfile -x C:\\jaegos.txt  
->>>*[ rmfile -x ]      : Deleting file as your stated name at your current location or from given location. 
->>>*[ edit -n ]        : Edits the stated line of the given file from given location.  Ex : edit -n c:\\MyText.txt -3 
->>>*[ editor ]         : Opens JAEGOS's text editor for your file of be edited from given location.  Ex : editor c:\\MyText.txt 
->>>*[ list -x ]        : Lists all files in your location. 
->>>*[ whoami ]         : Shows pc name. 
->>>*[ whereami ]       : Shows your current directory location. 
->>>*[ ip -v4 ]         : Shows your Local IpV4 address. 
->>>*[ ip -v6 ]         : Shows your Local IpV6 address. 
->>>*[ history ]        : Lists the commands you have previously issued on the command line. 
->>>*[ shutdown -x ]    : Shutdown Jaeg OS. 
+>>>* [ COMMANDS ] 
+>>>* [ help -x ]        : Shows all commands and help.\n 
+>>>* [ goto path ]      : Goes to location of your given path. Ex : goto C:\\MyFiles\\JaegOs  
+>>>* [ read -x ]        : This command shows the contents of the stated readable file.  
+>>>* [ read -n ]        : This command shows the contents of the stated readable file with line numbers.  
+>>>* [ crdir dirname ]  : Creates a directory as given name at your current location. Ex : crdir MyDirectory  
+>>>* [ rmdir dirname ]  : Deletes a directory as given name at your current location or at given location. Ex : rmdir MyDirectory   or   Ex : rmdir c:\\MyDirectory  
+>>>* [ crfile -x ]      : Creates a text or any file at your given location and with your given file name. Ex: crfile -x C:\\jaegos.txt  
+>>>* [ rmfile -x ]      : Deleting file as your stated name at your current location or from given location. 
+>>>* [ edit -n ]        : Edits the stated line of the given file from given location.  Ex : edit -n c:\\MyText.txt -3 
+>>>* [ editor ]         : Opens JAEGOS's text editor for your file of be edited from given location.  Ex : editor c:\\MyText.txt 
+>>>* [ list -x ]        : Lists all files in your location. 
+>>>* [ whoami ]         : Shows pc name. 
+>>>* [ whereami ]       : Shows your current directory location. 
+>>>* [ ip -v4 ]         : Shows your Local IpV4 address. 
+>>>* [ ip -v6 ]         : Shows your Local IpV6 address. 
+>>>* [ history ]        : Lists the commands you have previously issued on the command line. 
+>>>* [ shutdown -x ]    : Shutdown Jaeg OS. 
 >> ---
 > --- 
 **These commands all done. **[ ALL DONE ! ]**
