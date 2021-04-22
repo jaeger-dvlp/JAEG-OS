@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\bin\Debug\grnew20.exe.config
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.loadsc.resources
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.Properties.Resources.resources
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\bin\Debug\grnew20.exe
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\bin\Debug\grnew20.pdb
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.exe
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.pdb
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.Form2.resources
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\bin\Debug\grnew20.exe.manifest
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\bin\Debug\grnew20.application
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.exe.manifest
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.application
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.TrustInfo.xml
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\grnew20\grnew20\obj\Debug\grnew20.csprojAssemblyReference.cache
