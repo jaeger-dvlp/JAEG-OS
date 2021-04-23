@@ -1,5 +1,6 @@
 # JAEG-OS **[ DONE ]**
-### I'am working on a program simulates old pc operating system. I'm coding this program with c# in form. I'll share screenshots from program soon. Its all done!
+### Old Operation-Systems simulator. Working terminal etc.
+Ready to use.
 ---
 
 ## Finished things, codes etc.
